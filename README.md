@@ -1,7 +1,7 @@
 <!-- 👋 Hello World!!! I’m @m4rc0pc0d3, 
 
 i introduce myself as a hobbyist, a self taught programmer and a very passionate guy about everything related to STEM disciplines. 
-I STRONGLY believe in research and technology as tools capable of bringing well-being into everyday life, empowering people and improving their knowledge. And that is my mission.
+I STRONGLY believe in research and technology as tools capable of bringing well-being into everyday life, empowering people and improving their knowledge. And that is my mission. I try to pursue it with willingness and discipline.
 These two things, together with the support and the love that come from my wife and my family, and my faith also, accompany me on my journey and encourage me to give the best of me. To these, i owe everything, all i am.  
 As Dante said "Consider your origins: you were not made to live as brutes, but to follow virtue and knowledge", so i let my curiosity guide myself, aware that generosity is the highest form of wisdom.
 
