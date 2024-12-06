@@ -1,7 +1,7 @@
 # Hi, geeks! 👋
 _______________________________________________________________
 
-I'm Marco P. , i introduce myself as a hobbist and self-taught guy with a scholastic background in electronics and some interest in software and other side topics. 
+I'm Marco P. , i introduce myself as a hobbist and self-taught guy with a scholastic background in electronics and some interest in software and other side topics. The nickname i chose has double meaning, as it could be interpreted both as **Marco P. Code** and as a recall to the concept of **opcode**, the most basic instruction.
 
 I'm very passionate about everything related to STEM disciplines. I believe in research and technology as tools capable of bringing well-being into everyday life, empowering people and improving their knowledge. I think that it's a noble mission, deserving to be pursued with willingness and discipline.
 
@@ -21,7 +21,7 @@ As Dante said "Consider your origins: you were not made to live as brutes, but t
 - improve my skills in order to reach a technical mastery and a deep knowledge in as many disciplines as possible.
 - know how to analyze hardware of any kind, even without knowing its specific applications.
 - know how to acquire all the needed information on whatever device i see (architectural reference documentation, component datasheets, laboratory analyses) and understand its operating logic at an arbitrary level of detail and depth along the typical stack ( physical, logical, protocol, software).
-- be able to see everything about computer science through the lenses of an electronic technician, that tries to delve what is happening under the hood or tries to understand an universe of things starting from the most atomic thing he knows, the **opcode** or whatever meaning it has, from the ground up.
+- be able to see everything about computer science through the lenses of an electronic technician, that tries to delve what is happening under the hood or tries to understand an universe of things starting from the most atomic thing he knows, the **opcode**, the Verb or whatever meaning it has, from the ground up.
 - know how the hardware is really programmed and how to have full control over it, for example know how a high-level software concept is translated in low-level stuff and expressed in the native ISA of any architecture.
 - be able to reconstruct the logic and recognize the application context of any old software even if available as a black box, without knowing the development, working methods and interests of those who designed it, having partial, obsolete or untrusted documentation and despite the absence of source code.
 - behave ethically, harmlessly and respectifully of others and of legitimate rights like copyright, intellectual property and privacy. I discourage any illicit purpose, it's not catholic.
