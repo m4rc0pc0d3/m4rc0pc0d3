@@ -24,7 +24,7 @@ As Dante said "Consider your origins: you were not made to live as brutes, but t
 - be able to see everything about computer science through the lenses of an electronic technician, that tries to delve what is happening under the hood or tries to understand an universe of things starting from the most atomic thing he knows, the **opcode** or whatever meaning it has, from the ground up.
 - know how the hardware is really programmed and how to have full control over it, for example know how a high-level software concept is translated in low-level stuff and expressed in the native ISA of any architecture.
 - be able to reconstruct the logic and recognize the application context of any old software even if available as a black box, without knowing the development, working methods and interests of those who designed it, having partial, obsolete or untrusted documentation and despite the absence of source code.
-- behave ethical, unharmful and respectiful of others and of legitimate rights like copyright, intellectual property and privacy. I discourage any illicit purpose, it's not catholic.
+- behave ethically, harmlessly and respectifully of others and of legitimate rights like copyright, intellectual property and privacy. I discourage any illicit purpose, it's not catholic.
 - know how to look for defects, freeze them in a picture, reproduce them and understand their causes. How to document them.
 - have a methodology for everything. That's because i believe that poor written code or the absence of a methodology unveils a certain lack of reasoning.
 
